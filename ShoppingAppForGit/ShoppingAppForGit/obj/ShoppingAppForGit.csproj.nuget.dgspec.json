@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\source\\repos\\ShoppingAppForGit\\ShoppingAppForGit\\ShoppingAppForGit.csproj": {}
+    "G:\\Azure Training\\Projects\\ShoppingApp\\ShoppingAppForGit\\ShoppingAppForGit\\ShoppingAppForGit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\source\\repos\\ShoppingAppForGit\\ShoppingAppForGit\\ShoppingAppForGit.csproj": {
+    "G:\\Azure Training\\Projects\\ShoppingApp\\ShoppingAppForGit\\ShoppingAppForGit\\ShoppingAppForGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\source\\repos\\ShoppingAppForGit\\ShoppingAppForGit\\ShoppingAppForGit.csproj",
+        "projectUniqueName": "G:\\Azure Training\\Projects\\ShoppingApp\\ShoppingAppForGit\\ShoppingAppForGit\\ShoppingAppForGit.csproj",
         "projectName": "ShoppingAppForGit",
-        "projectPath": "C:\\Users\\admin\\source\\repos\\ShoppingAppForGit\\ShoppingAppForGit\\ShoppingAppForGit.csproj",
+        "projectPath": "G:\\Azure Training\\Projects\\ShoppingApp\\ShoppingAppForGit\\ShoppingAppForGit\\ShoppingAppForGit.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\source\\repos\\ShoppingAppForGit\\ShoppingAppForGit\\obj\\",
+        "outputPath": "G:\\Azure Training\\Projects\\ShoppingApp\\ShoppingAppForGit\\ShoppingAppForGit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
